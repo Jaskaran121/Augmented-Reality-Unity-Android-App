@@ -4,6 +4,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//This app is based on the IEEE paper A Context-Aware Method for Authentically Simulating Outdoors Shadows for Mobile Augmented Reality
+//https://ieeexplore.ieee.org/abstract/document/7867820
+
 // The Plugin used to read ALS sensor value is work of Kaoru Shoji and can be found here:-
 //https://github.com/kshoji/Unity-Android-Sensor-Plugin
 
